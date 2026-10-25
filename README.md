@@ -4,6 +4,8 @@
 >
 > Eğitici ve sektörel içeriktir — kod veya sisteme özel teknik detay içermez. 2005'ten bu yana yürütülen e-ticaret projelerindeki saha deneyimine dayanır ([Alesta WEB](https://alestaweb.com)).
 
+Son güncelleme: 2026-10-25
+
 İçindekiler:
 
 1. [Sanal POS nedir?](#1-sanal-pos-nedir)
@@ -110,6 +112,8 @@ Türkiye e-ticaretinde taksit, satışı doğrudan etkileyen bir faktördür. Ü
 3. **Banka kampanyaları:** Bankaların dönemsel "ekstra taksit / erteleme" kampanyaları (Bonus, World, Maximum, Axess, Paraf, Bankkart vb.) doğrudan banka POS ile kullanılabilir.
 
 İyi bir e-ticaret altyapısı, **kart BIN'ine göre** doğru taksit seçeneklerini otomatik gösterebilmelidir (örneğin yalnızca o kartın bankasının izin verdiği taksitleri sunmak).
+
+> **Dikkat:** 5464 sayılı Kanun md. 17 gereği, kartın kullanılması nedeniyle müşteriden komisyon veya benzeri adla ek ücret istenemez; tek çekim kart fiyatı havale/nakit fiyatından yüksek olamaz. Taksitte vade farkı uygulanıyorsa toplam tutar ödeme öncesinde açıkça gösterilmelidir. Ayrıntı ve hesap örneği: [Taksitli satışta komisyonu fiyata yansıtma ve müşteriye doğru gösterme](docs/taksit-komisyonu-ve-fiyat-gosterimi.md)
 
 ## 7. 3D Secure ve güvenlik
 
