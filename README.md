@@ -202,3 +202,14 @@ Bir ödeme sağlayıcısı seçmeden önce:
 ---
 
 *Bu rehber eğitici amaçlıdır ve sektörel genel bilgiye dayanır; finansal veya hukuki tavsiye değildir. Sağlayıcı oran ve koşulları zamanla değişir — güncel bilgiyi sağlayıcıdan doğrulayın. E-ticaret saha deneyimi: [Alesta WEB](https://alestaweb.com). Katkı ve düzeltmeler için "Issues" bölümü açıktır.*
+
+---
+
+## Makaleler
+
+Rehberi tamamlayan, tek konuya odaklanan yazılar:
+
+- [Taksitli satışta komisyonu fiyata yansıtma ve müşteriye doğru gösterme](docs/taksit-komisyonu-ve-fiyat-gosterimi.md)
+
+---
+
